@@ -26,3 +26,11 @@ To learn how to:
 - Work with databases in PHP  
 - Use SQL queries to get and display data  
 - Build a basic dynamic webpage with a modern UI  
+
+---
+## 📸 Project Preview
+
+Here’s how the page looks:
+
+![index](https://github.com/user-attachments/assets/2dd8b659-6595-4248-8b19-97ea5028ef41)
+
